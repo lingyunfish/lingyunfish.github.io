@@ -2,7 +2,7 @@
     <channel>
         <title>Solu Blog</title>
         <link>https://lingyunfish.github.io/</link>
-        <description>Hugo theme - LoveIt</description>
+        <description>solu的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>husterlu@gmail.com (Solu)</managingEditor>
             <webMaster>husterlu@gmail.com (Solu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 22 Sep 2022 17:26:57 &#43;0800</lastBuildDate>
             <atom:link href="https://lingyunfish.github.io/index.xml" rel="self" type="application/rss+xml" />
